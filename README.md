@@ -205,6 +205,4 @@ scaler = joblib.load("feature_scaler.pkl")
 - Serve the model through a web interface (e.g. Gradio or Streamlit) or a REST API
 - Add explainability (e.g. top TF-IDF terms per category, SHAP)
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
