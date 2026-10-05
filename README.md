@@ -1,4 +1,4 @@
-# Cybercrime Complaint Category Classification using NLP
+# CyberClass
 
 A machine learning pipeline that automatically classifies cybercrime complaints (free-text descriptions) into crime categories such as fraud, phishing, account hacking, and fake profiles. It combines TF-IDF text features with engineered features and compares three classifiers, then tunes and saves the best model for prediction.
 
